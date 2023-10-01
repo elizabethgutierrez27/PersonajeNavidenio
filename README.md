@@ -19,6 +19,7 @@ Pastorcita con cesta de frutas
 
 ## Prototipo en dibujo
 A continuación, se muestra un boceto del diseño de la pastora con cesta de frutas:
+![Prototipo](https://github.com/elizabethgutierrez27/PersonajeNavidenio/assets/146129308/d56e73bf-ea01-4aa6-8767-e47a694e4ec7)
 
 ## Comunicación 
 El dispostivo se va a comunicar con el telefono para controlar el movimiento, el encendido de las luces led y de la musica navideña.
