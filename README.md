@@ -26,6 +26,9 @@ El dispostivo se va a comunicar con el telefono para controlar el movimiento, el
 
 ## Arquitectura
 Los componentes utilizados (el microprosesador, los sensores, acceadores y acceso a los datos)
+1. Parte de la canasta donde los leds representan el color de las frutas dentro de ella.
+![Canasta](https://github.com/elizabethgutierrez27/PersonajeNavidenio/assets/146129308/045d0be2-41ef-42fd-b96a-450a86005828)
+
 
 ## Bases de Datos
 Gestor de la base de datos, tablas.
