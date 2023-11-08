@@ -33,7 +33,8 @@ El dispostivo se va a comunicar con el telefono para controlar el movimiento, el
 Los componentes utilizados (el microprosesador, los sensores, acceadores y acceso a los datos)
 1. Parte de la canasta donde los leds representan el color de las frutas dentro de ella.
    ![Canasta](https://github.com/elizabethgutierrez27/PersonajeNavidenio/assets/146129308/aa1602d0-3a10-4a6e-be21-6844e547c4e2)
-2. Demostración del circuito correspondiente al sensor ultrasonico y el buzzer, que se utilizara para reproducción de un villancico navideño.
+   
+3. Demostración del circuito correspondiente al sensor ultrasonico y el buzzer, que se utilizara para reproducción de un villancico navideño.
    ![image](https://github.com/elizabethgutierrez27/PersonajeNavidenio/assets/146129308/ae45f99f-5e1b-4b59-bbf1-6c747eddcdd3)
 
 
