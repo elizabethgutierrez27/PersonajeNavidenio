@@ -42,6 +42,9 @@ Los componentes utilizados (el microprosesador, los sensores, acceadores y acces
 ## Bases de Datos
 Gestor de la base de datos, tablas.
 
+![image](https://github.com/elizabethgutierrez27/PersonajeNavidenio/assets/146129308/c054ae21-b88b-452c-901d-82bfb3486ace)
+
+
 
 
 
