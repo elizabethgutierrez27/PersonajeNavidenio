@@ -28,6 +28,8 @@ A continuación, se muestra un boceto del diseño de la pastora con cesta de fru
 
 ## Comunicación 
 El dispostivo se va a comunicar con el telefono para controlar el movimiento, el encendido de las luces led y de la musica navideña.
+El proyecto es una pastora con una cesta de frutas, esta tendra luz en su cesta, donse se aplicara a darle la luz con los leds dependiendo el clor de la fruta. El sonido se mostrara en la manera de que suene un villancico o una musica navideña en el interior de la pastora, esta sera mediante un buzzer y/o una bocina y tendra conectado un sensor de sonido ultrasonico para que suene cuando sienta presencia cercana y dejara de sonar cuando se lejen, este sera controlado por el dispositivo, que en este caso sera el telefono. El movimiento se reflejara al momento de que la pastora levante la cesta y la mueva en direccion pensular.
+La programación y la comunicación se reflejara al momento de programar cada uno de los dispositivos controlados mediante el telefono celular.
 
 ## Arquitectura
 Los componentes utilizados (el microprosesador, los sensores, acceadores y acceso a los datos)
