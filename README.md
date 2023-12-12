@@ -46,6 +46,16 @@ Gestor de la base de datos, tablas.
 
 ![image](https://github.com/elizabethgutierrez27/PersonajeNavidenio/assets/146129308/c054ae21-b88b-452c-901d-82bfb3486ace)
 
+## Archivos Proyecto
+https://drive.google.com/drive/folders/1swOee1ue7QOkj5y9GojLmF9AORHWIu1Z?usp=sharing
+
+## Imagenes y videos proyecto
+![Pastora](https://github.com/elizabethgutierrez27/PersonajeNavidenio/assets/146129308/4d8189ef-38ac-4909-ab2b-d26341b13111)
+
+https://drive.google.com/file/d/1Zy2ZXfB6Q0CttPq7N4ZiZPpsBcU2wzYU/view?usp=sharing
+
+https://drive.google.com/file/d/1Yw8CTWWVEYgetRTsgNb-hO_3gt7yaXbh/view?usp=sharing
+
 
 
 
